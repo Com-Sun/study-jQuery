@@ -12,4 +12,4 @@
 
 ## 개념 실습
 
-- [get()](ex1_input박스)
+- [input 값 가져오기](ex1_input박스)
