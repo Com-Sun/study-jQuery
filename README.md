@@ -10,8 +10,18 @@
 
 저작권을 침해하지 않기 위해 이 저장소에 올라가는 모든 자료는 직접 작성하였습니다.
 
-## 개념 실습
+## 개념 공부
 
 - [input 값 가져오기](basic/ex1_input박스)
 - [요소 숨기기](basic/ex2_hide)
 - [tag 내 텍스트 제어](basic/ex3_text)
+- [append 메서드로 html 조작하기](./basic/ex4_append)
+- [JSON](./basic/ex5_JSON)
+- [Ajax](./basic/ex6_Ajax)
+- [attribute 변경](./basic/ex7_attribute)
+
+
+## 실습
+
+- [서울시 미세먼지 출력]
+- [고양이 api]
