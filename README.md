@@ -22,3 +22,5 @@
 
 
 ## 실습
+
+### [`Mini Project`](https://github.com/Com-Sun/python-mini-project)
